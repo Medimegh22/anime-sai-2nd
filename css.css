@@ -1,0 +1,45 @@
+.page{
+ width : auto;
+margin : 0 auto;
+}
+nav {
+    background-color: #3e289f
+}
+.menu {
+    text-align:center;
+    border:0;
+    height:55px;
+    width:1330px;
+    font-weight:550;
+    font-family: sans-serif;
+    color: #ffffff;
+    }
+    header{
+        background-color: black;
+        color: #ffffff;
+        text-align:center;
+        border:0;
+        height:55px;
+        width:1330px;
+        font-weight:auto;
+        font-family: fantasy;
+        font-size: 2em;
+        }
+        footer{
+            background-color: #001044;
+
+        }
+    .bottom{
+        height:55px;
+        width:1330px;
+        font-weight:550;
+        font-family: sans-serif;
+        color: #ffffff;
+        text-align: right;
+
+    }
+    .active {
+        text-decoration: none;
+        color: #ffffff;
+    }
+    a:hover{color: #ffec00;}
